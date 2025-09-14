@@ -28,3 +28,5 @@ This project predicts IMDb movie ratings based on features such as genre, direct
 - Still challenging to predict extreme ratings due to limited dataset features.  
 
 ## Sample Prediction
+Predictions: [5.3, 6.2, 5.5, 5.4, 6.1]
+Actual: [6.0, 2.4, 3.8, 3.8, 7.2]
